@@ -14,5 +14,6 @@ thư mục actions/index.js
 File App.js
 	-> components cha
 
-useSelector để get state trong store 
+useSelector để get state trong store
+
 useDispatch để thay đổi state trong store	
